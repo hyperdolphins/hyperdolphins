@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @hyperdolphins
 - 🔀 Neuroatypical
-- 🤗 Accessible design & software for special needs
-- 🌱 I’m currently learning Swift & SwiftUI
+- 🕸️Currently looking into self-hosting
